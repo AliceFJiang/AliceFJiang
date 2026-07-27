@@ -42,9 +42,9 @@ I like to think of GitHub as my personal notebook, where I can record my learnin
 <!-- REPO-LIST:START -->
 | Repository | Focus | Role |
 |---|---|---|
-| [Notebooks-for-ROS](https://github.com/AliceFJiang/Notebooks-for-ROS) | ROS notebooks and learning notes | Maintainer |
-| [--hand_posture_recognition](https://github.com/AliceFJiang/--hand_posture_recognition) | Computer vision / hand posture recognition | Maintainer |
-| [---superconductivity_temperature_prediction](https://github.com/AliceFJiang/---superconductivity_temperature_prediction) | Scientific ML / prediction workflow | Maintainer |
+| [Notebooks-for-ROS](https://github.com/AliceFJiang/Notebooks-for-ROS) | ROS / robotics notes | Maintainer |
+| [---superconductivity_temperature_prediction](https://github.com/AliceFJiang/---superconductivity_temperature_prediction) | Scientific ML / materials prediction | Maintainer |
+| [--hand_posture_recognition](https://github.com/AliceFJiang/--hand_posture_recognition) | Computer vision / posture recognition | Maintainer |
 | [NKU-AI-Study](https://github.com/summerwind0131/NKU-AI-Study) | Collaborative AI course resources and study documentation | Contributor |
 <!-- REPO-LIST:END -->
 
