@@ -124,6 +124,12 @@ This profile is becoming a public index of projects, notes, research interests, 
 - GitHub: [AliceFJiang](https://github.com/AliceFJiang)
 - Portfolio focus: robotics, ROS, computer vision, scientific machine learning
 
+## Hobbies
+- piano
+- bell canto
+- figure skating
+- swimming, badminton,ping pong
+
 ---
 
 <div align="center">
