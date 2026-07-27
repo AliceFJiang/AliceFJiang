@@ -5,6 +5,9 @@
 <a href="https://github.com/AliceFJiang">
   <img src="https://github.com/AliceFJiang.png" width="140" alt="Alice's GitHub avatar" />
 </a>
+<div align="center">
+
+_Le festin esr sur mon chemin🐀_
 
 ### Robotics · Computer Vision · Machine Learning
 
@@ -94,6 +97,6 @@ Outside the lab, I'm also interested in:
 
 <div align="center">
 
-_“Let us, then, be up and doing, with a heart for any fate.” - “A Psalm of Life”_
+_Let us, then, be up and doing, with a heart for any fate. - “A Psalm of Life”_
 
 </div>
