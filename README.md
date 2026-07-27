@@ -5,7 +5,6 @@
 <a href="https://github.com/AliceFJiang">
   <img src="https://github.com/AliceFJiang.png" width="140" alt="Alice's GitHub avatar" />
 </a>
-<div align="center">
 
 _Le festin est sur mon chemin🐀_
 
