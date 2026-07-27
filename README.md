@@ -33,52 +33,6 @@ I'd like to see Github more as my personal notebook, recording my learning foots
 | Technical Writing | Turning labs and experiments into readable notebooks and reusable explanations |
 | Data Analysis | Visualization, validation, and careful comparison of model behavior |
 
-## What I Am Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ROS & Robotics Notes
-
-Collecting ROS lab notebooks and concept explanations, from workspace structure to node communication.
-
-[![Open Project](https://img.shields.io/badge/Open-Notebooks--for--ROS-A8D5BA?style=flat-square&logo=ros&logoColor=2D6A4F)](https://github.com/AliceFJiang/Notebooks-for-ROS)
-
-</td>
-<td width="50%" valign="top">
-
-### Computer Vision Experiments
-
-Exploring hand posture recognition and practical workflows for visual input.
-
-[![Open Project](https://img.shields.io/badge/Open-Hand%20Posture%20Recognition-B7E4C7?style=flat-square&logo=opencv&logoColor=2D6A4F)](https://github.com/AliceFJiang/--hand_posture_recognition)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Machine Learning
-
-Building prediction experiments with an interest in clean data pipelines, model evaluation, and interpretation.
-I'm currently working on data analysis of germanium detector.
-
-[![Open Project](https://img.shields.io/badge/Open-Superconductivity%20Prediction-CDEAC0?style=flat-square&logo=pytorch&logoColor=2D6A4F)](https://github.com/AliceFJiang/---superconductivity_temperature_prediction)
-
-</td>
-<td width="50%" valign="top">
-
-### Research Notes
-
-Organizing experiments, diagrams, and technical explanations into material that stays useful after the project ends.
-
-![Focus](https://img.shields.io/badge/Focus-Reproducible%20Learning-F3FAF5?style=flat-square&logo=jupyter&logoColor=2D6A4F)
-
-</td>
-</tr>
-</table>
-
 ## Repository Map
 
 <!-- REPO-LIST:START -->
