@@ -13,7 +13,7 @@ _Le festin est sur mon chemin🐀_
 [![Followers](https://img.shields.io/github/followers/AliceFJiang?style=for-the-badge&logo=github&label=Followers&color=A8D5BA&labelColor=F3FAF5)](https://github.com/AliceFJiang?tab=followers)
 [![Stars](https://img.shields.io/github/stars/AliceFJiang?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=B7E4C7&labelColor=F3FAF5)](https://github.com/AliceFJiang?tab=repositories)
 [![Repositories](https://img.shields.io/badge/Public%20Repos-auto--updated-CDEAC0?style=for-the-badge&labelColor=F3FAF5)](#repository-map)
-[![Profile Views](https://komarev.com/ghpvc/?username=AliceFJiang&style=for-the-badge&color=A8D5BA)](https://github.com/AliceFJiang)
+
 
 </div>
 
