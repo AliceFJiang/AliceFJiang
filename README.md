@@ -23,7 +23,7 @@ _Le festin est sur mon chemin🐀_
 
 Hi, I'm Alice. I am an engineering student exploring robotics, intelligent systems, computer vision, and scientific machine learning. I like learning by building: turning lab notes, experiments, and half-formed questions into notebooks that can be read again later.
 
-My current work focuses on ROS, computer vision, model training, and research-style documentation. I care about clear explanations as much as working code, because a good project should help the next person understand the idea, not only reproduce the result.
+My current work focuses on computer vision, machine learning and robotics. I care about clear explanations as much as working code, because a good project should help the next person understand the idea, not only reproduce the result.
 
 I like to think of GitHub as my personal notebook, where I can record my learning journey and some of my crazy ideas. Some parts are research-oriented, some are course notes, and some are simply a record of learning in public.
 
