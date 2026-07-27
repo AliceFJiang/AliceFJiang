@@ -63,7 +63,7 @@ I like to think of GitHub as my personal notebook, where I can record my learnin
 
 ## Life Outside the Lab⭐
 
-Outside the lab, I'm also interested in:
+Outside the lab, I'm also interested in:🦒
 
 - Piano and bel canto🎹🎵
 - Literature and philosophy📕
