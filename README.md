@@ -35,7 +35,7 @@ I like to think of GitHub as my personal notebook, where I can record my learnin
 | Computer Vision | Gesture and posture recognition, visual input pipelines, and human-machine interaction |
 | Machine Learning | Prediction tasks, clean datasets, materials-related modeling, and interpretable results |
 | Technical Writing | Turning labs and experiments into readable notebooks and reusable explanations |
-| Data Analysis | Visualization, validation, and careful comparison of model behavior |
+| Mathematics | logic, convex optimazation |
 
 ## Repository Map🌙
 
