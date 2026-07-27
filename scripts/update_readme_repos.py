@@ -2,12 +2,19 @@ import os
 import re
 import urllib.request
 import json
-from datetime import datetime, timezone
 
 USERNAME = "AliceFJiang"
 README = "README.md"
 START = "<!-- REPO-LIST:START -->"
 END = "<!-- REPO-LIST:END -->"
+
+CONTRIBUTED_REPOS = [
+    {
+        "name": "NKU-AI-Study",
+        "url": "https://github.com/summerwind0131/NKU-AI-Study",
+        "focus": "Collaborative AI course resources and study documentation",
+    },
+]
 
 FOCUS_KEYWORDS = [
     ("ros", "ROS / robotics notes"),
@@ -54,26 +61,21 @@ def fetch_repos():
     return [repo for repo in repos if not repo.get("fork") and repo.get("name") != USERNAME]
 
 
-def format_date(value):
-    if not value:
-        return ""
-    dt = datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
-    return dt.strftime("%Y-%m-%d")
-
-
 def build_table(repos):
     rows = [
-        "| Repository | Focus | Language | Stars | Last Updated |",
-        "|---|---|---:|---:|---:|",
+        "| Repository | Focus | Role |",
+        "|---|---|---|",
     ]
     for repo in repos[:8]:
         name = repo["name"]
         url = repo["html_url"]
         focus = guess_focus(repo)
-        language = repo.get("language") or "-"
-        stars = repo.get("stargazers_count", 0)
-        updated = format_date(repo.get("updated_at"))
-        rows.append(f"| [{name}]({url}) | {focus} | {language} | {stars} | {updated} |")
+        rows.append(f"| [{name}]({url}) | {focus} | Maintainer |")
+
+    for repo in CONTRIBUTED_REPOS:
+        rows.append(
+            f"| [{repo['name']}]({repo['url']}) | {repo['focus']} | Contributor |"
+        )
     return "\n".join(rows)
 
 
