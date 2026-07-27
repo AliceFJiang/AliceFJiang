@@ -19,7 +19,7 @@ _Le festin est sur mon chemin🐀_
 
 ---
 
-## About Me
+## About Me 🐦
 
 Hi, I'm Alice. I am an engineering student exploring robotics, intelligent systems, computer vision, and scientific machine learning. I like learning by building: turning lab notes, experiments, and half-formed questions into notebooks that can be read again later.
 
@@ -27,7 +27,7 @@ My current work focuses on ROS, computer vision, model training, and research-st
 
 I like to think of GitHub as my personal notebook, where I can record my learning journey and some of my crazy ideas. Some parts are research-oriented, some are course notes, and some are simply a record of learning in public.
 
-## Research Interests
+## Research Interests ☀
 
 | Area | What I Care About |
 |---|---|
@@ -37,7 +37,7 @@ I like to think of GitHub as my personal notebook, where I can record my learnin
 | Technical Writing | Turning labs and experiments into readable notebooks and reusable explanations |
 | Data Analysis | Visualization, validation, and careful comparison of model behavior |
 
-## Repository Map
+## Repository Map🌙
 
 <!-- REPO-LIST:START -->
 | Repository | Focus | Last Updated |
@@ -47,7 +47,7 @@ I like to think of GitHub as my personal notebook, where I can record my learnin
 | [---superconductivity_temperature_prediction](https://github.com/AliceFJiang/---superconductivity_temperature_prediction) | Scientific ML / prediction workflow | auto-updated |
 <!-- REPO-LIST:END -->
 
-## Technical Toolkit
+## Technical Toolkit🔧
 
 ![Python](https://img.shields.io/badge/Python-F3FAF5?style=flat-square&logo=python&logoColor=2D6A4F)
 ![C++](https://img.shields.io/badge/C++-F3FAF5?style=flat-square&logo=cplusplus&logoColor=2D6A4F)
@@ -59,18 +59,17 @@ I like to think of GitHub as my personal notebook, where I can record my learnin
 ![Jupyter](https://img.shields.io/badge/Jupyter-F3FAF5?style=flat-square&logo=jupyter&logoColor=2D6A4F)
 ![GitHub](https://img.shields.io/badge/GitHub-F3FAF5?style=flat-square&logo=github&logoColor=2D6A4F)
 
-## Life Outside the Lab
+## Life Outside the Lab⭐
 
 Outside the lab, I'm also interested in:
 
-- Piano and bel canto
-- Literature and philosophy
-- Figure skating
-- Swimming, badminton, and ping pong
-- Organizing notes, diagrams, and study materials into something calm and readable
-- Projects with a visible story: what was tried, what failed, and what became clearer
+- Piano and bel canto🎹🎵
+- Literature and philosophy📕
+- Figure skating⛸
+- Swimming🏊‍, badminton🏸, and ping pong🏓
+- Organizing notes, diagrams, and study materials into something calm and readable🖊
 
-## GitHub Activity
+## GitHub Activity👀
 
 <div align="center">
 
@@ -78,7 +77,7 @@ Outside the lab, I'm also interested in:
 
 </div>
 
-## GitHub Snapshot
+## GitHub Snapshot👀
 
 | Signal | Live Link |
 |---|---|
@@ -87,7 +86,7 @@ Outside the lab, I'm also interested in:
 | Contributions | [View contribution history](https://github.com/AliceFJiang) |
 | Projects | [Browse repositories](https://github.com/AliceFJiang?tab=repositories) |
 
-## Connect
+## Connect📞
 
 - GitHub: [AliceFJiang](https://github.com/AliceFJiang)
 - Portfolio focus: robotics, ROS, computer vision, and scientific machine learning
