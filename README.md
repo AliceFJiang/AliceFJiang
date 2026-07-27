@@ -4,7 +4,7 @@
 
 ### Robotics · Computer Vision · Scientific Machine Learning
 
-A living resume for research notes, robotics notebooks, technical projects, and the pieces of life that keep the work human.
+A living portfolio: part technical resume, part research notebook, and part quiet record of what I am learning.
 
 [![Followers](https://img.shields.io/github/followers/AliceFJiang?style=for-the-badge&logo=github&label=Followers&color=A8D5BA&labelColor=F3FAF5)](https://github.com/AliceFJiang?tab=followers)
 [![Stars](https://img.shields.io/github/stars/AliceFJiang?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=B7E4C7&labelColor=F3FAF5)](https://github.com/AliceFJiang?tab=repositories)
@@ -17,27 +17,66 @@ A living resume for research notes, robotics notebooks, technical projects, and 
 
 ## About Me
 
-Hi, I'm Alice. I am an engineering student exploring robotics, intelligent systems, computer vision, and scientific machine learning. I like projects that combine clear ideas with working systems: notebooks that explain, models that can be evaluated, and code that someone else can actually follow.
+Hi, I'm Alice. I am an engineering student exploring robotics, intelligent systems, computer vision, and scientific machine learning. I like learning by building: turning lab notes, experiments, and half-formed questions into notebooks that can be read again later.
 
-GitHub is my living resume. Some parts are research-oriented, some parts are course notes, and some parts are simply a record of learning in public.
+My current work lives around ROS, computer vision, model training, and research-style documentation. I care about clear explanations as much as working code, because a good project should help the next person understand the idea, not only reproduce the result.
+
+GitHub is my living resume. Some parts are research-oriented, some are course notes, and some are simply a record of learning in public.
 
 ## Research Interests
 
 | Area | What I Care About |
 |---|---|
-| Robotics Software | ROS 1 / ROS 2 workflows, nodes, topics, services, simulation, reproducible lab notes |
-| Computer Vision | Gesture and posture recognition, visual input pipelines, model evaluation |
-| Scientific ML | Prediction tasks, clean datasets, materials-related modeling, interpretable results |
+| Robotics Software | ROS 1 / ROS 2 workflows, nodes, topics, services, simulation, and reproducible lab notes |
+| Computer Vision | Gesture and posture recognition, visual input pipelines, and human-machine interaction |
+| Scientific ML | Prediction tasks, clean datasets, materials-related modeling, and interpretable results |
 | Technical Writing | Turning labs and experiments into readable notebooks and reusable explanations |
 | Data Analysis | Visualization, validation, and careful comparison of model behavior |
 
-## Project Portfolio
+## What I Am Building
 
-| Project | Role / Focus | Repository |
-|---|---|---|
-| ROS & Robotics Notes | Building ROS lab notebooks and concept explanations, from workspace structure to node communication | [Notebooks-for-ROS](https://github.com/AliceFJiang/Notebooks-for-ROS) |
-| Hand Posture Recognition | Computer vision experiments for recognizing hand posture and practical visual workflows | [--hand_posture_recognition](https://github.com/AliceFJiang/--hand_posture_recognition) |
-| Superconductivity Temperature Prediction | Scientific machine learning workflow for prediction and model exploration | [---superconductivity_temperature_prediction](https://github.com/AliceFJiang/---superconductivity_temperature_prediction) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ROS & Robotics Notes
+
+Collecting ROS lab notebooks and concept explanations, from workspace structure to node communication.
+
+[![Open Project](https://img.shields.io/badge/Open-Notebooks--for--ROS-A8D5BA?style=flat-square&logo=ros&logoColor=2D6A4F)](https://github.com/AliceFJiang/Notebooks-for-ROS)
+
+</td>
+<td width="50%" valign="top">
+
+### Computer Vision Experiments
+
+Exploring hand posture recognition and practical workflows for visual input.
+
+[![Open Project](https://img.shields.io/badge/Open-Hand%20Posture%20Recognition-B7E4C7?style=flat-square&logo=opencv&logoColor=2D6A4F)](https://github.com/AliceFJiang/--hand_posture_recognition)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Scientific ML
+
+Building prediction experiments with an interest in clean data pipelines, model evaluation, and interpretation.
+
+[![Open Project](https://img.shields.io/badge/Open-Superconductivity%20Prediction-CDEAC0?style=flat-square&logo=pytorch&logoColor=2D6A4F)](https://github.com/AliceFJiang/---superconductivity_temperature_prediction)
+
+</td>
+<td width="50%" valign="top">
+
+### Research Notes
+
+Organizing experiments, diagrams, and technical explanations into material that stays useful after the project ends.
+
+![Focus](https://img.shields.io/badge/Focus-Reproducible%20Learning-F3FAF5?style=flat-square&logo=jupyter&logoColor=2D6A4F)
+
+</td>
+</tr>
+</table>
 
 ## Repository Map
 
@@ -51,28 +90,39 @@ GitHub is my living resume. Some parts are research-oriented, some parts are cou
 
 ## Currently Learning
 
-- ROS 1 Noetic fundamentals: workspaces, packages, nodes, topics, services
+- ROS 1 Noetic fundamentals: workspaces, packages, nodes, topics, and services
 - ROS 2 concepts and modern robotics software organization
 - Python and C++ for robotics and machine learning workflows
-- Computer vision pipelines, evaluation, and documentation
-- How to make technical notes feel clean, readable, and worth returning to
+- Computer vision pipelines, model evaluation, and documentation
+- Better ways to write technical notes that stay readable after the lab ends
 
 ## Technical Toolkit
 
 ![Python](https://img.shields.io/badge/Python-F3FAF5?style=flat-square&logo=python&logoColor=2D6A4F)
 ![C++](https://img.shields.io/badge/C++-F3FAF5?style=flat-square&logo=cplusplus&logoColor=2D6A4F)
 ![ROS](https://img.shields.io/badge/ROS-F3FAF5?style=flat-square&logo=ros&logoColor=2D6A4F)
+![OpenCV](https://img.shields.io/badge/OpenCV-F3FAF5?style=flat-square&logo=opencv&logoColor=2D6A4F)
+![PyTorch](https://img.shields.io/badge/PyTorch-F3FAF5?style=flat-square&logo=pytorch&logoColor=2D6A4F)
+![MATLAB](https://img.shields.io/badge/MATLAB-F3FAF5?style=flat-square&logo=mathworks&logoColor=2D6A4F)
+![Bash](https://img.shields.io/badge/Bash-F3FAF5?style=flat-square&logo=gnubash&logoColor=2D6A4F)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F3FAF5?style=flat-square&logo=jupyter&logoColor=2D6A4F)
 ![GitHub](https://img.shields.io/badge/GitHub-F3FAF5?style=flat-square&logo=github&logoColor=2D6A4F)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F3FAF5?style=flat-square&logo=scikitlearn&logoColor=2D6A4F)
 
 ## Life Outside the Lab
 
-- Piano
-- Bel canto
+- Piano and bel canto
 - Figure skating
 - Swimming, badminton, and ping pong
 - Organizing notes, diagrams, and study materials into something calm and readable
+- Projects with a visible story: what was tried, what failed, and what became clearer
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliceFJiang&bg_color=F3FAF5&color=2D6A4F&line=74B49B&point=40916C&area=true&area_color=CDEAC0&hide_border=true&radius=6" alt="Alice's GitHub activity graph" />
+
+</div>
 
 ## GitHub Snapshot
 
@@ -80,13 +130,13 @@ GitHub is my living resume. Some parts are research-oriented, some parts are cou
 |---|---|
 | Followers | [View followers](https://github.com/AliceFJiang?tab=followers) |
 | Stars | [View repositories](https://github.com/AliceFJiang?tab=repositories) |
-| Contributions | [View contribution graph](https://github.com/AliceFJiang) |
+| Contributions | [View contribution history](https://github.com/AliceFJiang) |
 | Projects | [Browse repositories](https://github.com/AliceFJiang?tab=repositories) |
 
 ## Connect
 
 - GitHub: [AliceFJiang](https://github.com/AliceFJiang)
-- Portfolio focus: robotics, ROS, computer vision, scientific machine learning
+- Portfolio focus: robotics, ROS, computer vision, and scientific machine learning
 
 ---
 
