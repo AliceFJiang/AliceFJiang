@@ -2,9 +2,7 @@
 
 # Alice·J·Feng
 
-### Robotics · Computer Vision · Scientific Machine Learning
-
-A living portfolio: part technical resume, part research notebook, and part quiet record of what I am learning.
+### Robotics · Computer Vision ·  Machine Learning
 
 [![Followers](https://img.shields.io/github/followers/AliceFJiang?style=for-the-badge&logo=github&label=Followers&color=A8D5BA&labelColor=F3FAF5)](https://github.com/AliceFJiang?tab=followers)
 [![Stars](https://img.shields.io/github/stars/AliceFJiang?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=B7E4C7&labelColor=F3FAF5)](https://github.com/AliceFJiang?tab=repositories)
@@ -27,9 +25,9 @@ I'd like to see Github more as my personal notebook, recording my learning foots
 
 | Area | What I Care About |
 |---|---|
-| Robotics Software | ROS 1 / ROS 2 workflows, nodes, topics, services, simulation, and reproducible lab notes |
+| Robotics | ROS 1 / ROS 2 workflows, modern robotics, and robotics combined with reinforcement learning|
 | Computer Vision | Gesture and posture recognition, visual input pipelines, and human-machine interaction |
-| Scientific ML | Prediction tasks, clean datasets, materials-related modeling, and interpretable results |
+| Machine Learning | Prediction tasks, clean datasets, materials-related modeling, and interpretable results |
 | Technical Writing | Turning labs and experiments into readable notebooks and reusable explanations |
 | Data Analysis | Visualization, validation, and careful comparison of model behavior |
 
@@ -42,14 +40,6 @@ I'd like to see Github more as my personal notebook, recording my learning foots
 | [--hand_posture_recognition](https://github.com/AliceFJiang/--hand_posture_recognition) | Computer vision / hand posture recognition | auto-updated |
 | [---superconductivity_temperature_prediction](https://github.com/AliceFJiang/---superconductivity_temperature_prediction) | Scientific ML / prediction workflow | auto-updated |
 <!-- REPO-LIST:END -->
-
-## Currently Learning
-
-- ROS 1 Noetic fundamentals: workspaces, packages, nodes, topics, and services
-- ROS 2 concepts and modern robotics software organization
-- Python and C++ for robotics and machine learning workflows
-- Computer vision pipelines, model evaluation, and documentation
-- Better ways to write technical notes that stay readable after the lab ends
 
 ## Technical Toolkit
 
