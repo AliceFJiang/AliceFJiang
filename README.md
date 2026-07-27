@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alice Jiang
+# Alice·J·Feng
 
 ### Robotics · Computer Vision · Scientific Machine Learning
 
@@ -21,7 +21,7 @@ Hi, I'm Alice. I am an engineering student exploring robotics, intelligent syste
 
 My current work lives around ROS, computer vision, model training, and research-style documentation. I care about clear explanations as much as working code, because a good project should help the next person understand the idea, not only reproduce the result.
 
-GitHub is my living resume. Some parts are research-oriented, some are course notes, and some are simply a record of learning in public.
+I'd like to see Github more as my personal notebook, recording my learning footsteps and some crazy ideas. Some parts are research-oriented, some are course notes, and some are simply a record of learning in public.
 
 ## Research Interests
 
@@ -59,9 +59,10 @@ Exploring hand posture recognition and practical workflows for visual input.
 <tr>
 <td width="50%" valign="top">
 
-### Scientific ML
+### Machine Learning
 
 Building prediction experiments with an interest in clean data pipelines, model evaluation, and interpretation.
+I'm currently working on data analysis of germanium detector.
 
 [![Open Project](https://img.shields.io/badge/Open-Superconductivity%20Prediction-CDEAC0?style=flat-square&logo=pytorch&logoColor=2D6A4F)](https://github.com/AliceFJiang/---superconductivity_temperature_prediction)
 
@@ -110,7 +111,9 @@ Organizing experiments, diagrams, and technical explanations into material that 
 
 ## Life Outside the Lab
 
+I'm also interested in
 - Piano and bel canto
+- literature and philosophy
 - Figure skating
 - Swimming, badminton, and ping pong
 - Organizing notes, diagrams, and study materials into something calm and readable
@@ -142,6 +145,6 @@ Organizing experiments, diagrams, and technical explanations into material that 
 
 <div align="center">
 
-_Quiet progress, clear notes, useful systems._
+_Be up and doing with a heart for any fate——“a Psalm of Life”_
 
 </div>
