@@ -89,8 +89,7 @@ Outside the lab, I'm also interested in:
 ## Connect📞
 
 - GitHub: [AliceFJiang](https://github.com/AliceFJiang)
-- Portfolio focus: robotics, ROS, computer vision, and scientific machine learning
-
+- email:alicejfeng@163.com
 ---
 
 <div align="center">
