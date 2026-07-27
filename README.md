@@ -7,7 +7,7 @@
 </a>
 <div align="center">
 
-_Le festin esr sur mon chemin🐀_
+_Le festin est sur mon chemin🐀_
 
 ### Robotics · Computer Vision · Machine Learning
 
