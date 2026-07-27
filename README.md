@@ -2,6 +2,10 @@
 
 # Alice·J·Feng
 
+<a href="https://github.com/AliceFJiang">
+  <img src="https://github.com/AliceFJiang.png" width="140" alt="Alice's GitHub avatar" />
+</a>
+
 ### Robotics · Computer Vision · Machine Learning
 
 [![Followers](https://img.shields.io/github/followers/AliceFJiang?style=for-the-badge&logo=github&label=Followers&color=A8D5BA&labelColor=F3FAF5)](https://github.com/AliceFJiang?tab=followers)
