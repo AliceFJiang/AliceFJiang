@@ -53,6 +53,7 @@ I like to think of GitHub as my personal notebook, where I can record my learnin
 ![Python](https://img.shields.io/badge/Python-F3FAF5?style=flat-square&logo=python&logoColor=2D6A4F)
 ![C++](https://img.shields.io/badge/C++-F3FAF5?style=flat-square&logo=cplusplus&logoColor=2D6A4F)
 ![ROS](https://img.shields.io/badge/ROS-F3FAF5?style=flat-square&logo=ros&logoColor=2D6A4F)
+![Gazebo](assets/gazebo-badge.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-F3FAF5?style=flat-square&logo=opencv&logoColor=2D6A4F)
 ![PyTorch](https://img.shields.io/badge/PyTorch-F3FAF5?style=flat-square&logo=pytorch&logoColor=2D6A4F)
 ![MATLAB](assets/matlab-badge.svg)
